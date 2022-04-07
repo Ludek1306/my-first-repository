@@ -1,0 +1,26 @@
+div {
+    width: 350px;
+    font-size: 18px;
+}
+
+p  {
+    margin: 0;
+    padding: 15px;
+    border-left: 2px solid black; 
+    border-right: 2px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black; 
+}
+
+p:hover {
+    background-color: orangered;
+    cursor: default;
+}
+
+.no-border-top {
+    border-top: 0;
+}
+
+.no-border-bottom {
+    border-bottom: 0;
+}
