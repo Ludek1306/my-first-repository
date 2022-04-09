@@ -1,6 +1,6 @@
 // 4th part
 
-
+$(selector).action()
 
 $('div').css('background', 'purple');
 
