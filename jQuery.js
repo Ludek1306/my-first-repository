@@ -1,6 +1,6 @@
 let color = 'purple';
 let number = 5;
-let word = 's';
+let word = 'cool';
 
 
 
