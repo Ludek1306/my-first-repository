@@ -1,0 +1,11 @@
+button {
+    font-size: 18px;
+    font-weight: bold;
+    
+    padding: 15px;
+}
+
+input {
+    font-size: 18px;
+    padding: 8px;
+}
