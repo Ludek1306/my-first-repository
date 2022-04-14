@@ -18,3 +18,4 @@ if (word == 'cool') {
     $('.cyan').text('Power of DOM');
 
 } else {$('.blue').text('Power of DOM')};
+
