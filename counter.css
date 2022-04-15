@@ -1,0 +1,10 @@
+main {
+    height:140px;
+    width: 160px;
+    margin-left: 20px;
+    background-color: whitesmoke;
+}
+
+h1, h2, button {
+    margin-left: 10px;
+}
